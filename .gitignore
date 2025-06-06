@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+coverage
+.bolt
+public
+*.d.ts
+.env
